@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://bfftracker.net",
+  "homepage": "https://knoxzic.github.io/BFF-admin",
   "eslintConfig": {
     "extends": ["react-app"]
   },

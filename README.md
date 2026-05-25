@@ -16,6 +16,10 @@ Then open:
 
 - http://localhost:3000
 
+For the hosted GitHub Pages preview, visit:
+
+- https://knoxzic.github.io/BFF-admin/
+
 > Use the preview credentials on the login screen:
 > - **Email / Username:** `admin999`
 > - **Password:** `$Kg4lyfe2`
