@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BFF-admin/static/css/main.1d04bc5f.css",
+    "main.js": "/BFF-admin/static/js/main.c37cdabb.js",
+    "index.html": "/BFF-admin/index.html",
+    "main.1d04bc5f.css.map": "/BFF-admin/static/css/main.1d04bc5f.css.map",
+    "main.c37cdabb.js.map": "/BFF-admin/static/js/main.c37cdabb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d04bc5f.css",
+    "static/js/main.c37cdabb.js"
+  ]
+}
