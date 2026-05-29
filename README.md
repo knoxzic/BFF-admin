@@ -22,7 +22,7 @@ For the hosted GitHub Pages preview, visit:
 
 > Use the preview credentials on the login screen:
 > - **Email / Username:** `admin999`
-> - **Password:** `$Kg4lyfe2`
+
 
 ## Structure
 
